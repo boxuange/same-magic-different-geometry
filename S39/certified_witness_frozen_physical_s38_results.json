@@ -1,0 +1,21 @@
+{
+  "scope": "Strict rational Q32 orbit physical witness-to-archive envelope for mathematical frozen-weighted-H model, not original NumPy/BLAS instruction trace",
+  "all_13_orbits_2region_gram_reconstructed_in_exact_integers": true,
+  "weighted_H_to_Q36_tangent_error_fraction": "3/268435456",
+  "exact_CNOT_orbit_to_Q32_rounding_error_fraction": "2897/3109556322304",
+  "total_tangent_error_fraction": "37649/3109556322304",
+  "single_region_R_error_fraction": "37649/12438225289216",
+  "Q32_witness_archive_gap_fraction": "10547019024624798125/2535301200456458802993406410752",
+  "Q32_witness_archive_gap_decimal": 4.1600654875743755e-12,
+  "physical_input_error_fraction": "179752684032423947546106762233/3688560684807120486400000000000000000",
+  "physical_input_error_decimal": 4.87324730138806e-08,
+  "total_frozen_physical_witness_to_archive_fraction": "3088391216298386166000616255053553993497/63368990042231786228078451097600000000000000000",
+  "total_frozen_physical_witness_to_archive_decimal": 4.873663307936817e-08,
+  "required_threshold": "1/200000",
+  "passes": true,
+  "unresolved": [
+    "Five CI Gram matrices",
+    "input before PRNG weighted Hermitian snapshots",
+    "formal trace-level floating result reproduction"
+  ]
+}

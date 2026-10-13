@@ -1,0 +1,45 @@
+{
+  "name": "S38 three full 13x13 magic-gram rigorous finite-code input transfer",
+  "scope": "exact graph / exact cut-Clifford orbits with S35 frozen binary64 Hermitian weights viewed as mathematical dyadic constants; NOT an audit of floating BLAS instructions or true normal-Gaussian randomness",
+  "integer_environment_identity": "E_site.T E_site = 262144 I at all six sites",
+  "local_insertion_operator_gain_sq": 32,
+  "site_hermitian_input_complex_entries": 1024,
+  "maximum_weighted_H_coordinate_error_exact": "32767/4503599627370496",
+  "maximum_weighted_H_coordinate_error_decimal": 7.275735569578501e-12,
+  "orbit_tangent_Frobenius_error_upper_exact": "3/268435456",
+  "orbit_tangent_Frobenius_error_upper_decimal": 1.1175870895385742e-08,
+  "quantized_local_tangent_norm_squared_exact": "1359757341373458106233521/9444732965739290427392",
+  "maximum_resource_matrix_entry_change_due_to_H_rounding_exact": "19327352841/1152921504606846976",
+  "maximum_resource_matrix_entry_change_due_to_H_rounding_decimal": 1.676380635088487e-08,
+  "archive_threshold": "13/100000000",
+  "matrix_results": {
+    "total": {
+      "archive_gap_exact_fraction": "85879942534325/1208925819614629174706176",
+      "archive_gap_decimal": 7.103822347156177e-11,
+      "frozen_physical_to_archive_bound_exact_fraction": "20352078275138741/1208925819614629174706176",
+      "frozen_physical_to_archive_bound_decimal": 1.683484457435643e-08,
+      "certified_below_1p3e_7": true
+    },
+    "syndrome": {
+      "archive_gap_exact_fraction": "981322812549/151115727451828646838272",
+      "archive_gap_decimal": 6.493849641572334e-12,
+      "frozen_physical_to_archive_bound_exact_fraction": "2534256114388101/151115727451828646838272",
+      "frozen_physical_to_archive_bound_decimal": 1.677030020052644e-08,
+      "certified_below_1p3e_7": true
+    },
+    "full_nl": {
+      "archive_gap_exact_fraction": "19579852386811/604462909807314587353088",
+      "archive_gap_decimal": 3.239214858204037e-11,
+      "frozen_physical_to_archive_bound_exact_fraction": "10152679018689019/604462909807314587353088",
+      "frozen_physical_to_archive_bound_decimal": 1.679619849946691e-08,
+      "certified_below_1p3e_7": true
+    }
+  },
+  "not_certified": [
+    "five coherent-information Grams",
+    "13x13 geometry witness Gram",
+    "exact input values before NumPy Gaussian generation and normalisation",
+    "instruction-level correctness of archived direct float implementation",
+    "full eight-resource exact-equality theorem for original physical code"
+  ]
+}

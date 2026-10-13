@@ -1,0 +1,185 @@
+{
+  "format": "SHA-256",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "sha256": "0c58c1252914052895bdce0981a5172d506d7eb31e1df35f680cd39ae876730a",
+      "size_bytes": 246
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "116cdbcb60a5b899dc345e311afd8999269907bbb941935b98939253a141220e",
+      "size_bytes": 612
+    },
+    {
+      "path": "README.md",
+      "sha256": "653da96359a2395c649c59cd8d6692afe5b79d40a81ce3a231d74b37391ac4d0",
+      "size_bytes": 6601
+    },
+    {
+      "path": "S39/certified_five_ci_frozen_physical_s39_results.json",
+      "sha256": "5e2d0d912523d9351ae86e1bc2063f30bd7d32c67932dafbf20d00d7b99fec60",
+      "size_bytes": 3418
+    },
+    {
+      "path": "S39/certified_three_magic_frozen_physical_s38_results.json",
+      "sha256": "a5e3ba6c1a0a858fad5a09ddf9ed90f198585d50839cae1e3b22ff2202a607dc",
+      "size_bytes": 2540
+    },
+    {
+      "path": "S39/certified_witness_frozen_physical_s38_results.json",
+      "sha256": "29891775bdb01efb7094ccd78f2173604d5e7f8d45e8413a885ea6eadac98a2b",
+      "size_bytes": 1243
+    },
+    {
+      "path": "S39/data/historical_20261009_grams.npz",
+      "sha256": "c426fa3f325e574cf30bc4f6ab56808e267a2b74e0a0c0f5a57fa93e7c124d7c",
+      "size_bytes": 10625
+    },
+    {
+      "path": "S39/resource_manifold_audit.json",
+      "sha256": "c69f31e762f6f42de62aef4aeb86c4ed8bb107ecbe16e695cae167f6f65057ad",
+      "size_bytes": 12057
+    },
+    {
+      "path": "S39/verify_full_frozen_code_s39.py",
+      "sha256": "fa0366ecf81e92422e8b95852719de7ea9a42a45ad6cc229a629485ddf998d0b",
+      "size_bytes": 4763
+    },
+    {
+      "path": "S50/bridge_H_SHA256.txt",
+      "sha256": "177a88be4b76472a085781a41f7bf1b986479a5d4ca2113ceaa9b6365879457f",
+      "size_bytes": 65
+    },
+    {
+      "path": "S50/bridge_weighted_H_binary64.npy",
+      "sha256": "f451f5df5695c6b70e78d7f86b6354f22f1249afdcfbf49276f10419cda1abd4",
+      "size_bytes": 98432
+    },
+    {
+      "path": "S50/historical_20261009_grams.npz",
+      "sha256": "c426fa3f325e574cf30bc4f6ab56808e267a2b74e0a0c0f5a57fa93e7c124d7c",
+      "size_bytes": 10625
+    },
+    {
+      "path": "S50/minimal_bridge_core.py",
+      "sha256": "7b72acea6ad51b76bb8f9dc2fff797f849c97163c76fec8ceccc6c08e1fc0cfc",
+      "size_bytes": 2860
+    },
+    {
+      "path": "S50/resource_manifold_audit.json",
+      "sha256": "c69f31e762f6f42de62aef4aeb86c4ed8bb107ecbe16e695cae167f6f65057ad",
+      "size_bytes": 12057
+    },
+    {
+      "path": "S50/s50_exact_binary64_physical.py",
+      "sha256": "447bec8509785d9c01ffbf09fa14c52c0ca8cb1189971b92e981793b19d38b49",
+      "size_bytes": 5336
+    },
+    {
+      "path": "S50/s50_exact_local_pauli_gram.py",
+      "sha256": "17d4418609e1f815a652b8cb4ccba85380c59a77c4b699fc42222df10292549a",
+      "size_bytes": 4962
+    },
+    {
+      "path": "S50/s50_exact_pauli_erasure.py",
+      "sha256": "f3f4e8b2dca228b1471af8a4fd2a6461a76029d8a36ed86047b11efe33abc4b7",
+      "size_bytes": 2511
+    },
+    {
+      "path": "S56/s55_dyadic_validated_certificate.json",
+      "sha256": "271eb1f56a0d7bf3d562775cb483869d89dc9825bdf820aa6edd04fa4b19a8a9",
+      "size_bytes": 1325
+    },
+    {
+      "path": "S56/s55_frozen_binary64_weighted_H.npy",
+      "sha256": "250fc29989f2789d46154ed0c1779e8671d0d1837ec42963d6802b7032bbdffb",
+      "size_bytes": 98432
+    },
+    {
+      "path": "S56/s55_frozen_control.npy",
+      "sha256": "168c52a04057d17f9424ec19fbe801f9a60fb524da864d4e34c481b9285caaa1",
+      "size_bytes": 232
+    },
+    {
+      "path": "S56/s55_resource_selected_before_geometry.json",
+      "sha256": "4e47821a674edb412ea6ef8f85a6d03fa79e3b9897c260c45db04d6c2cf19316",
+      "size_bytes": 2009
+    },
+    {
+      "path": "S56/s55_resources_grams.npz",
+      "sha256": "af20972794b2d7ee42ab47e1a7c1b995ad254c741a0fb3eacf6dc945bd0cdc82",
+      "size_bytes": 8940
+    },
+    {
+      "path": "S56/s55_validated_witness_gram.npy",
+      "sha256": "47416e37aa8f5d0e660b5bcbcabc73d9a6b4428ceaf4c3494010d7d74d26931a",
+      "size_bytes": 1480
+    },
+    {
+      "path": "S56/s56_frozen_physical_gram_certificate.json",
+      "sha256": "ec0aef989530f7c0b43b99459380737e5af656f40dd94818baa9cb5fb3fafc44",
+      "size_bytes": 5996
+    },
+    {
+      "path": "S56/verify_s56_certified_chart.py",
+      "sha256": "ebbcc7b215f818d454a649a585580354e6989305a6eba7fac25b9aa2b5cec6b8",
+      "size_bytes": 3332
+    },
+    {
+      "path": "S59/S58/S55/s55_frozen_binary64_weighted_H.npy",
+      "sha256": "250fc29989f2789d46154ed0c1779e8671d0d1837ec42963d6802b7032bbdffb",
+      "size_bytes": 98432
+    },
+    {
+      "path": "S59/S58/S55/s55_frozen_control.npy",
+      "sha256": "168c52a04057d17f9424ec19fbe801f9a60fb524da864d4e34c481b9285caaa1",
+      "size_bytes": 232
+    },
+    {
+      "path": "S59/S58/square_pauli_exact_dyadic.py",
+      "sha256": "317d2233643eb219708a9ea4dd248ab981f6215f4f336ba54cb4c943686ad015",
+      "size_bytes": 3164
+    },
+    {
+      "path": "S59/run_s59.py",
+      "sha256": "24225ea52edb6251fdc8ef7f1d33695265cb5aa42c92c8616e613b385e529e7b",
+      "size_bytes": 1392
+    },
+    {
+      "path": "S59/s59_exact_clifford_gram.py",
+      "sha256": "86e8fbc8fe36f7f5746c99e967b07e4af6dcc7fa5ab2d86045932dc3e7f9af01",
+      "size_bytes": 4021
+    },
+    {
+      "path": "S59/s59_exact_source_transfer.py",
+      "sha256": "2df99bc4a3947e45e46fbb7eeac57e356ed4fa938b01297c98f5db0ee2ac583b",
+      "size_bytes": 6899
+    },
+    {
+      "path": "S59/s59_nested_erasure.py",
+      "sha256": "ca9ef0ee229473d839314afdedd6b966bdcc3bf6760780c39afb4fec4b538921",
+      "size_bytes": 2746
+    },
+    {
+      "path": "S59/s59_sharpened_bound.py",
+      "sha256": "41ecdc4eb892d8150be5318341dad30f315b54adfb029fabdcded8e0f5792e6e",
+      "size_bytes": 2110
+    },
+    {
+      "path": "check_integrity.py",
+      "sha256": "c4d4109e03b1b27fa953d3a38198ca591592402d609cbab28fe2bad0e2567b67",
+      "size_bytes": 1831
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "03bd44df408a29bc34ab4ba60e60d7b9c7bc570554a40ba0366ec065fba215ce",
+      "size_bytes": 47
+    },
+    {
+      "path": "verify_all.py",
+      "sha256": "bcb6e197a2608175a5791e4b58340026a7160171bf8b60037b62873fbff1b65c",
+      "size_bytes": 1920
+    }
+  ]
+}

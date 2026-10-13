@@ -1,0 +1,48 @@
+{
+  "scope": "Exact rational root and nonzero witness ONLY for stored binary64 Gram model; no physical coefficient error bound",
+  "resource_gram_sha256": "af20972794b2d7ee42ab47e1a7c1b995ad254c741a0fb3eacf6dc945bd0cdc82",
+  "witness_matrix_sha256": "47416e37aa8f5d0e660b5bcbcabc73d9a6b4428ceaf4c3494010d7d74d26931a",
+  "resources": [
+    "total",
+    "full_nl",
+    "syndrome",
+    "ci_25",
+    "ci_12",
+    "ci_34",
+    "ci_03",
+    "ci_235"
+  ],
+  "pivots": [
+    0,
+    9,
+    7,
+    3,
+    6,
+    4,
+    2,
+    8,
+    5
+  ],
+  "free_variables": [
+    1,
+    10,
+    11,
+    12
+  ],
+  "radius_rational": "1/100000000000",
+  "radius_float": 1e-11,
+  "eta_upper_float": 3.791395940076682e-12,
+  "q_upper_float": 3.906731353396581e-07,
+  "center_control_witness": 2.4222703327361013e-06,
+  "reference_witness": -3.0010716134398763e-16,
+  "variation_bound_float": 3.647916901975124e-15,
+  "witness_separation_strict_lower_bound_float": 2.4222703293882917e-06,
+  "control_parameter_distance": 0.029255657633556312,
+  "proof_checks": {
+    "exact_invertibility": true,
+    "banach_self_mapping": true,
+    "banach_contraction": true,
+    "positive_witness_lower_bound": true
+  },
+  "limitations": "The exact root is of the dyadic stored Gram surrogate, not yet the exact frozen physical tensor-network diagnostic functions."
+}

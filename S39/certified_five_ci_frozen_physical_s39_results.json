@@ -1,0 +1,56 @@
+{
+  "name": "S39 five complete CI Gram frozen physical transfer",
+  "scope": "six [[5,1,3]] stabilizer perfect tensors, fixed 13 orbit directions, exact frozen binary64 site-Hermitian weights treated as dyadic real inputs, optimized source-independent first-order region-unitary CI, exact stabilizer patch decoders",
+  "not_certified": [
+    "ideal continuous random weights before NumPy PRNG",
+    "instruction-level BLAS implementation",
+    "unrestricted optimal CPTP recovery",
+    "arbitrary geometry or Einstein equations"
+  ],
+  "formula": "G_CI(a,b)=Re<P_CI a,P_CI b>_F/64, P_CI fixed orthogonal projection for each region; mixed precision correction treated separately",
+  "u_H_fraction": "3/268435456",
+  "u_Q32_fraction": "1/1073741824",
+  "norm_upper_fraction": "12001/1000",
+  "projection_sensitivity_fraction": "41879420818053/9223372036854775808000",
+  "mixed_norm_transfer_fraction": "3221493907581/9223372036854775808000",
+  "threshold_fraction": "13/100000000",
+  "results": {
+    "ci_12": {
+      "mixed_exact_archive_max_gap_fraction": "1281585932892251483515/40564819207303340847894502572032",
+      "mixed_exact_archive_max_gap_decimal": 3.159353247312176e-11,
+      "frozen_binary64_input_to_archive_CI_gram_error_bound_fraction": "24954688323695735322244367/5070602400912917605986812821504000",
+      "frozen_binary64_input_to_archive_CI_gram_error_bound_decimal": 4.921444505134708e-09,
+      "below_1p3e_7": true
+    },
+    "ci_02": {
+      "mixed_exact_archive_max_gap_fraction": "1133778652937069962363/40564819207303340847894502572032",
+      "mixed_exact_archive_max_gap_decimal": 2.7949801702381136e-11,
+      "frozen_binary64_input_to_archive_CI_gram_error_bound_fraction": "24936212413701337632100367/5070602400912917605986812821504000",
+      "frozen_binary64_input_to_archive_CI_gram_error_bound_decimal": 4.917800774363967e-09,
+      "below_1p3e_7": true
+    },
+    "ci_34": {
+      "mixed_exact_archive_max_gap_fraction": "1267959671684883862923/40564819207303340847894502572032",
+      "mixed_exact_archive_max_gap_decimal": 3.1257619199658574e-11,
+      "frozen_binary64_input_to_archive_CI_gram_error_bound_fraction": "24952985041044814369670367/5070602400912917605986812821504000",
+      "frozen_binary64_input_to_archive_CI_gram_error_bound_decimal": 4.921108591861245e-09,
+      "below_1p3e_7": true
+    },
+    "ci_35": {
+      "mixed_exact_archive_max_gap_fraction": "874668522861460510589/40564819207303340847894502572032",
+      "mixed_exact_archive_max_gap_decimal": 2.156224383477553e-11,
+      "frozen_binary64_input_to_archive_CI_gram_error_bound_fraction": "24903823647441886450628617/5070602400912917605986812821504000",
+      "frozen_binary64_input_to_archive_CI_gram_error_bound_decimal": 4.9114132164963615e-09,
+      "below_1p3e_7": true
+    },
+    "ci_235": {
+      "mixed_exact_archive_max_gap_fraction": "218262768803152662139/10141204801825835211973625643008",
+      "mixed_exact_archive_max_gap_decimal": 2.1522370671762428e-11,
+      "frozen_binary64_input_to_archive_CI_gram_error_bound_fraction": "6225905366621445054468623/1267650600228229401496703205376000",
+      "frozen_binary64_input_to_archive_CI_gram_error_bound_decimal": 4.911373343333349e-09,
+      "below_1p3e_7": true
+    }
+  },
+  "all_five_certified_to_frozen_mathematical_physics": true,
+  "source_gram_archive_sha256": "c426fa3f325e574cf30bc4f6ab56808e267a2b74e0a0c0f5a57fa93e7c124d7c"
+}

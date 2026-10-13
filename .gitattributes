@@ -1,0 +1,11 @@
+# Normalise source text in Git across Windows/macOS/Linux
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+
+# Preserve frozen binary inputs exactly
+*.npy binary
+*.npz binary

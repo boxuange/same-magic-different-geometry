@@ -1,0 +1,117 @@
+{
+  "name": "S56 second-topology exact frozen-physical 9 Gram certification",
+  "status": "CERTIFIED",
+  "mathematical_scope": "Frozen binary64 weighted Hermitian matrices treated as exact dyadic rational input, exact six perfect tensors and cut-Clifford orbit, quadratic leading-order stabilizer magic and near-decoder source-independent unitary coherent information, Z source geometrical witness 5 minus 25.",
+  "input_frozen_H_sha256": "250fc29989f2789d46154ed0c1779e8671d0d1837ec42963d6802b7032bbdffb",
+  "input_archived_8_grams_sha256": "af20972794b2d7ee42ab47e1a7c1b995ad254c741a0fb3eacf6dc945bd0cdc82",
+  "input_archived_witness_sha256": "47416e37aa8f5d0e660b5bcbcabc73d9a6b4428ceaf4c3494010d7d74d26931a",
+  "all_9_error_upper_strictly_below_1e-8": true,
+  "threshold_fraction": "1/100000000",
+  "proof_ingredients": [
+    "Exact square-graph integer environment contraction E_v^T E_v=262144I for all 6 vertices",
+    "Actual saved binary64 Hermitian dyadics nearest-quantized coordinatewise at Q38/Q39 checked exactly",
+    "13-orbit exact integer Q39 total/syndrome and Q38 full-nonlocal magic Grams",
+    "13-orbit Q39 norm with Q32 exact integer projected CI features for five regions",
+    "Exact Q32 source Gram for nested square graph patches 5 and 25",
+    "Rigorous Frobenius perturbation bounds and exact rational archived-Gram comparisons"
+  ],
+  "not_certified": [
+    "Original PRNG draw / unrecorded BLAS instruction-by-instruction trace",
+    "Unrestricted CPTP recovery optimization",
+    "All finite-epsilon orders",
+    "General geometries beyond specified edge-only response",
+    "Einstein equations"
+  ],
+  "results": {
+    "total": {
+      "key": "total",
+      "quantization_bits": 39,
+      "exact_Q_model_vs_archived_max_gap": "112370617770673/19342813113834066795298816",
+      "max_gap_decimal": 5.809424777531714e-12,
+      "frozen_dyadic_H_to_Q_error_upper": "180388626441/73786976294838206464",
+      "total_strict_error_upper": "47400166707520177/19342813113834066795298816",
+      "bound_decimal": 2.4505311832651355e-09,
+      "strict_less_than_1e_8": true
+    },
+    "syndrome": {
+      "key": "syndrome",
+      "quantization_bits": 39,
+      "exact_Q_model_vs_archived_max_gap": "11100892320435/19342813113834066795298816",
+      "max_gap_decimal": 5.73902681843914e-13,
+      "frozen_dyadic_H_to_Q_error_upper": "180388626441/73786976294838206464",
+      "total_strict_error_upper": "47298896982069939/19342813113834066795298816",
+      "bound_decimal": 2.4452956611694476e-09,
+      "strict_less_than_1e_8": true
+    },
+    "full_nl": {
+      "key": "full_nl",
+      "quantization_bits": 38,
+      "exact_Q_model_vs_archived_max_gap": "31388283323275/4835703278458516698824704",
+      "max_gap_decimal": 6.4909448565836494e-12,
+      "frozen_dyadic_H_to_Q_error_upper": "90194313225/18446744073709551616",
+      "total_strict_error_upper": "23675286329377675/4835703278458516698824704",
+      "bound_decimal": 4.895934462075737e-09,
+      "strict_less_than_1e_8": true
+    },
+    "ci_25": {
+      "key": "ci_25",
+      "quantization_bits_local": 39,
+      "quantization_bits_CI_orbit": 32,
+      "exact_mixed_Q39_Q32_model_vs_archive_max_gap": "119071730169672412977/10141204801825835211973625643008",
+      "frozen_H_to_exact_CI_upper": "420906795037/295147905179352825856",
+      "total_strict_error_upper": "14581319084954393292593/10141204801825835211973625643008",
+      "bound_decimal": 1.4378290715841923e-09,
+      "strict_less_than_1e_8": true
+    },
+    "ci_12": {
+      "key": "ci_12",
+      "quantization_bits_local": 39,
+      "quantization_bits_CI_orbit": 32,
+      "exact_mixed_Q39_Q32_model_vs_archive_max_gap": "4571492168002219957/633825300114114700748351602688",
+      "frozen_H_to_exact_CI_upper": "420906795037/295147905179352825856",
+      "total_strict_error_upper": "908461951842047274933/633825300114114700748351602688",
+      "bound_decimal": 1.4333002353779292e-09,
+      "strict_less_than_1e_8": true
+    },
+    "ci_34": {
+      "key": "ci_34",
+      "quantization_bits_local": 39,
+      "quantization_bits_CI_orbit": 32,
+      "exact_mixed_Q39_Q32_model_vs_archive_max_gap": "59154395979406521761/5070602400912917605986812821504",
+      "frozen_H_to_exact_CI_upper": "420906795037/295147905179352825856",
+      "total_strict_error_upper": "7290278073371766961569/5070602400912917605986812821504",
+      "bound_decimal": 1.4377538400682365e-09,
+      "strict_less_than_1e_8": true
+    },
+    "ci_03": {
+      "key": "ci_03",
+      "quantization_bits_local": 39,
+      "quantization_bits_CI_orbit": 32,
+      "exact_mixed_Q39_Q32_model_vs_archive_max_gap": "253032961870303396565/20282409603651670423947251286016",
+      "frozen_H_to_exact_CI_upper": "420906795037/295147905179352825856",
+      "total_strict_error_upper": "29177527671439745155797/20282409603651670423947251286016",
+      "bound_decimal": 1.4385631806876925e-09,
+      "strict_less_than_1e_8": true
+    },
+    "ci_235": {
+      "key": "ci_235",
+      "quantization_bits_local": 39,
+      "quantization_bits_CI_orbit": 32,
+      "exact_mixed_Q39_Q32_model_vs_archive_max_gap": "118516011235854507471/10141204801825835211973625643008",
+      "frozen_H_to_exact_CI_upper": "420906795037/295147905179352825856",
+      "total_strict_error_upper": "14580763366020575387087/10141204801825835211973625643008",
+      "bound_decimal": 1.4377742734665447e-09,
+      "strict_less_than_1e_8": true
+    },
+    "witness": {
+      "key": "validated_witness",
+      "quantization_bits_local": 39,
+      "quantization_bits_source": 32,
+      "exact_Q32_witness_vs_archive_gap": "2247272475178572491/5070602400912917605986812821504",
+      "frozen_H_to_exact_source_witness_upper": "141552775810974116425485348557/73771213696142409728000000000000000000",
+      "total_strict_error_upper": "1216209934583055574215103830899137130619/633689900422317862280784510976000000000000000000",
+      "bound_decimal": 1.9192509361006412e-09,
+      "strict_less_than_1e_8": true
+    }
+  }
+}

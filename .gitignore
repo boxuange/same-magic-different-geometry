@@ -1,0 +1,27 @@
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+
+# Generated verification reports (recreated by verify_all.py)
+verification_report.json
+S39/full_frozen_physical_theorem_s39.json
+S50/s50_exact_binary64_physical_certificate.json
+S50/s50_exact_local_micro_certificate.json
+S50/s50_exact_pauli_erasure_certificate.json
+S59/S58/square_pauli_exact_dyadic.json
+S59/S59_REPLAY_STATUS.json
+S59/s59_exact_clifford_gram.json
+S59/s59_exact_source_transfer.json
+S59/s59_nested_erasure.json
+S59/s59_sharpened_bound.json
+
+# OS / log files
+*.log
+.DS_Store
+Thumbs.db
