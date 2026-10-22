@@ -1,6 +1,6 @@
 # Same Magic, Different Geometry
 
-**Minimal verification code and computer-assisted proof data for the paper *Same Magic, Different Geometry*.**
+**Minimal verification code and computer-assisted proof data for the paper *Same Magic = Same Geometry?*.**
 
 This repository provides executable checks for two finite six-tensor holographic quantum codes. It covers four research stages (S39, S50, S56 and S59), including the specified leading-order resource-matching certificates and exact microscopic Pauli calculations for regional proto-area witnesses.
 
