@@ -1,4 +1,4 @@
-# Same Magic, Different Geometry
+# Same Magic = Same Geometry?
 
 **Minimal verification code and computer-assisted proof data for the paper *Same Magic = Same Geometry?*.**
 
